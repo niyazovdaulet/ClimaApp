@@ -17,6 +17,7 @@ A beautiful weather app which allows to get the live weather data for the curren
 - 🏦 UiKit
 - 📦 UITextField
 - 🚘 Swift Protocols and Delegate Design Pattern
+- ⭐️ API
 - 📇 URLSession
 - 🔲 JSONDecoder
 - ❇️  CoreLocation
